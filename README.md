@@ -56,14 +56,6 @@ Whether you're curious about NLP or want to see machine learning in action—thi
 
 ---
 
-##  Project Structure
-
-├── sms-spam-detection.ipynb # Data cleaning, NLP, model training
-├── App.py # Web app for real-time predictions
-├── emails.csv # Dataset with message text and labels
-├── README.md # Project documentation
-└── .venv/ # Virtual environment (optional)
-
 ## Results
 
  -Achieved over 96% accuracy on the test set
